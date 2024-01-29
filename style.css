@@ -219,10 +219,11 @@ footer {
     .box {
         width: 100%;
         text-align: center;
-        height: 1200px;
+        height: auto;
         position: relative;
         border-bottom-left-radius: 20% 10%;
         border-bottom-right-radius: 20% 10%;
+        padding-bottom: 30px;
     }
     .box1 {
         height: auto;
@@ -274,7 +275,7 @@ footer {
     .founder {
         display: block;
         position: relative;
-        right: 250px;
+        right: 230px;
     }
     .founder-img {
         height: 300px;
